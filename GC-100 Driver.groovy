@@ -1,7 +1,7 @@
 /**
  *  Global Cache GC-100 Control Device Type for Hubitat
  *  Kevin Wilcox
- *  Originally based on Carson Dallum's and Bryan Turcotte's code
+ *  Based on code by Carson Dallum and Bryan Turcotte
  *
  *  Usage:
  *  1. Add this code as a device driver in the Hubitat Drivers Code section
