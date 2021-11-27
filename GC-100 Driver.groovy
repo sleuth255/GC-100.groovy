@@ -23,6 +23,8 @@ metadata {
     capability "Initialize"
     capability "Telnet"
     capability "Actuator"
+    capability "Sensor"
+    capability "ContactSensor"
     attribute "telnet", ""
     attribute "input1",""
     attribute "input2",""
